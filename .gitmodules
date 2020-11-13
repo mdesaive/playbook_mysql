@@ -1,3 +1,9 @@
 [submodule "roles/role_mod_repositories"]
 	path = roles/role_mod_repositories
 	url = git@github.com:mdesaive/role_mod_repositories.git
+[submodule "inventory"]
+	path = inventory
+	url = git@github.com:mdesaive/inventory_mysql.git
+[submodule "roles/role_app_mysql"]
+	path = roles/role_app_mysql
+	url = git@github.com:mdesaive/role_app_mysql.git
