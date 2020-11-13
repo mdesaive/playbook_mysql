@@ -1,0 +1,5 @@
+---
+# file: site.yml
+- hosts: mysql_cluster
+  roles:
+    - role_app_mysql

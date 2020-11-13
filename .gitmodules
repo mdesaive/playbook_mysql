@@ -1,0 +1,3 @@
+[submodule "roles/role_mod_repositories"]
+	path = roles/role_mod_repositories
+	url = git@github.com:mdesaive/role_mod_repositories.git
